@@ -44,7 +44,7 @@ I learned how to overlay a color on an image and adjusting it with alpha value.
 
 
 ## Author
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/flaveeno)
+- Frontend Mentor - [@flaveeno](https://www.frontendmentor.io/profile/flaveeno)
 
 
 ## Acknowledgments
